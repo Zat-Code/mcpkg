@@ -1,0 +1,19 @@
+{
+  "projectName": "mcpkg",
+  "repo": "",
+  "type": "cli",
+  "phase": "initialization",
+  "currentAgent": "architecte",
+  "nextAgent": "product-owner",
+  "repoCreated": false,
+  "issuesCreated": 0,
+  "loopCount": 0,
+  "lastUpdate": "2026-03-03T04:01:00Z",
+  "issueCompleted": 0,
+  "issuesRemaining": 0,
+  "currentIssue": "NONE",
+  "status": "Starting initialization phase",
+  "branch": "main",
+  "localPath": "/home/node/projects/mcpkg",
+  "prNumber": 0
+}
