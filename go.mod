@@ -1,3 +1,3 @@
-module github.com/yourusername/mcpkg
+module github.com/Zat-Code/mcpkg
 
 go 1.21
